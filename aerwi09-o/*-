@@ -1,0 +1,10 @@
+#create an libray 
+boks name =(book 1 book 2 book 3)
+# borrow an libray book 
+let user borrow avabile books 
+user can only borrow avabile books 
+book  borrowing 1 = true 
+book brrowing = 2 False
+book brrowing = 3 true 
+total books brrowed = 3 
+total libray books =  3 
